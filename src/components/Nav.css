@@ -1,0 +1,15 @@
+.Nav {
+   display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 2rem;
+    height: 3rem;
+    width: fill;
+    position: fixed;
+    color: #A98529;
+}
+
+.Nav-text {
+    position: fixed;
+    margin-right: 5rem;
+}

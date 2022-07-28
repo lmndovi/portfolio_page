@@ -1,0 +1,54 @@
+.Landing {
+   background-color: #202020;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Landing-links {
+}
+
+.Landing-links ul {
+   margin: 5rem;
+}
+
+.Landing-ul {
+    list-style: none;
+}
+
+.Landing-hello {
+   text-decoration: none;
+   color: #cacaca;
+}
+
+.helloIsActive {
+
+}
+
+.Landing-im {
+   text-decoration: none;
+   color: #D3B872;
+}
+
+.imIsActive {
+
+}
+ 
+.Landing-lu {
+   text-decoration: none;
+   color: #D3B872;
+}
+
+.luIsActive {
+
+}
+
+.Landing-img {
+   display: flex;
+   justify-content: flex-end;
+   position: fixed;
+   right: 5rem;
+}
+
+.Landing-img {
+
+}

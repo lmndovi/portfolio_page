@@ -1,0 +1,42 @@
+.Info {
+    background-color: #202020;
+    color: #CACACA;
+    margin: auto;
+    width: 100rem;
+}
+
+.Info-p {
+    margin: auto;
+    margin-top: 6rem;
+    margin-bottom: 17rem;
+    font-size: 8rem;
+    font-weight: bold;
+    width: 52rem;
+}
+
+.Info-img {
+    width: 100rem;
+}
+
+.Info-text {
+    margin: 5rem;
+    width: 76rem;
+}
+
+.Info-h2 {
+    font-weight: 900;
+    font-size: 2.5rem;
+    padding: 3rem;
+}
+
+.Info-p2 {
+    font-weight:800;
+    font-size: 2.5rem;
+    padding: 3rem;
+}
+
+.Info-p3 {
+    font-weight: 600;
+    font-size: 2rem;
+    padding: 3rem;
+}
